@@ -1,2 +1,2 @@
 I=int(input())
-print(I**2)
+print(I**5)
